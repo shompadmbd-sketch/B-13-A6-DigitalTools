@@ -34,28 +34,28 @@ const Pricing = () => {
                 
                 <ul class="space-y-4 mb-10 text-[#627382] flex-grow">
                     <li class="flex items-center gap-1">
-                        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="text-[#22C55E] flex-shrink-0">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="text-[#30B868] flex-shrink-0">
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M5 13l4 4L19 7" />
                         </svg>
-                        <span class="text-[15px] font-medium">Access to 10 free tools</span>
+                        <span class="text-[16px] text-[#627382] font-medium">Access to 10 free tools</span>
                     </li>
                     <li class="flex items-center gap-1">
-                        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="text-[#22C55E] flex-shrink-0">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="text-[#30B868] flex-shrink-0">
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M5 13l4 4L19 7" />
                         </svg>
-                        <span class="text-[15px] font-medium">Basic templates</span>
+                        <span class="text-[16px] text-[#627382] font-medium">Basic templates</span>
                     </li>
                     <li class="flex items-center gap-1">
-                        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="text-[#22C55E] flex-shrink-0">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="text-[#30B868] flex-shrink-0">
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M5 13l4 4L19 7" />
                         </svg>
-                        <span class="text-[15px] font-medium">Community support</span>
+                        <span class="text-[16px] font-medium">Community support</span>
                     </li>
                     <li class="flex items-center gap-1">
-                        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="text-[#22C55E] flex-shrink-0">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="text-[#30B868] flex-shrink-0">
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M5 13l4 4L19 7" />
                         </svg>
-                        <span class="text-[15px] font-medium">1 project per month</span>
+                        <span class="text-[16px] text-[#627382] font-medium">1 project per month</span>
                     </li>
                 </ul>
                 
@@ -88,37 +88,37 @@ const Pricing = () => {
                         <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="flex-shrink-0">
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M5 13l4 4L19 7" />
                         </svg>
-                        <span class="text-[15px] font-medium opacity-95">Access to all premium tools</span>
+                        <span class="text-[16px]  font-medium opacity-95">Access to all premium tools</span>
                     </li>
                     <li class="flex items-center gap-1">
                         <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="flex-shrink-0">
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M5 13l4 4L19 7" />
                         </svg>
-                        <span class="text-[15px] font-medium opacity-95">Unlimited templates</span>
+                        <span class="text-[16px]  font-medium opacity-95">Unlimited templates</span>
                     </li>
                     <li class="flex items-center gap-1">
                         <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="flex-shrink-0">
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M5 13l4 4L19 7" />
                         </svg>
-                        <span class="text-[15px] font-medium opacity-95">Priority support</span>
+                        <span class="text-[16px]  font-medium opacity-95">Priority support</span>
                     </li>
                     <li class="flex items-center gap-1">
                         <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="flex-shrink-0">
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M5 13l4 4L19 7" />
                         </svg>
-                        <span class="text-[15px] font-medium opacity-95">Unlimited projects</span>
+                        <span class="text-[16px]  font-medium opacity-95">Unlimited projects</span>
                     </li>
                     <li class="flex items-center gap-1">
                         <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="flex-shrink-0">
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M5 13l4 4L19 7" />
                         </svg>
-                        <span class="text-[15px] font-medium opacity-95">Cloud sync</span>
+                        <span class="text-[16px]  font-medium opacity-95">Cloud sync</span>
                     </li>
                     <li class="flex items-center gap-1">
                         <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="flex-shrink-0">
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M5 13l4 4L19 7" />
                         </svg>
-                        <span class="text-[15px] font-medium opacity-95">Advanced analytics</span>
+                        <span class="text-[16px]  font-medium opacity-95">Advanced analytics</span>
                     </li>
                 </ul>
                 
@@ -144,40 +144,40 @@ const Pricing = () => {
                 
                 <ul class="space-y-4 mb-10 text-[#627382] flex-grow">
                     <li class="flex items-center gap-1">
-                        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="text-[#22C55E] flex-shrink-0">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="text-[#30B868] flex-shrink-0">
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M5 13l4 4L19 7" />
                         </svg>
-                        <span class="text-[15px] font-medium">Everything in Pro</span>
+                        <span class="text-[16px] font-medium">Everything in Pro</span>
+                    </li>
+                    <li class="flex items-center gap-1">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="text-[#30B868E] flex-shrink-0">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M5 13l4 4L19 7" />
+                        </svg>
+                        <span class="text-[16px] font-medium">Team collaboration</span>
+                    </li>
+                    <li class="flex items-center gap-1">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="text-[#30B868] flex-shrink-0">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M5 13l4 4L19 7" />
+                        </svg>
+                        <span class="text-[16px] font-medium">Custom integrations</span>
+                    </li>
+                    <li class="flex items-center gap-1">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="text-[#30B868] flex-shrink-0">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M5 13l4 4L19 7" />
+                        </svg>
+                        <span class="text-[16px] font-medium">Dedicated support</span>
+                    </li>
+                    <li class="flex items-center gap-1">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="text-[#30B868] flex-shrink-0">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M5 13l4 4L19 7" />
+                        </svg>
+                        <span class="text-[16px] font-medium">SLA guarantee</span>
                     </li>
                     <li class="flex items-center gap-1">
                         <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="text-[#22C55E] flex-shrink-0">
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M5 13l4 4L19 7" />
                         </svg>
-                        <span class="text-[15px] font-medium">Team collaboration</span>
-                    </li>
-                    <li class="flex items-center gap-1">
-                        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="text-[#22C55E] flex-shrink-0">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M5 13l4 4L19 7" />
-                        </svg>
-                        <span class="text-[15px] font-medium">Custom integrations</span>
-                    </li>
-                    <li class="flex items-center gap-1">
-                        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="text-[#22C55E] flex-shrink-0">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M5 13l4 4L19 7" />
-                        </svg>
-                        <span class="text-[15px] font-medium">Dedicated support</span>
-                    </li>
-                    <li class="flex items-center gap-1">
-                        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="text-[#22C55E] flex-shrink-0">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M5 13l4 4L19 7" />
-                        </svg>
-                        <span class="text-[15px] font-medium">SLA guarantee</span>
-                    </li>
-                    <li class="flex items-center gap-1">
-                        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="text-[#22C55E] flex-shrink-0">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M5 13l4 4L19 7" />
-                        </svg>
-                        <span class="text-[15px] font-medium">Custom branding</span>
+                        <span class="text-[16px] font-medium">Custom branding</span>
                     </li>
                 </ul>
                 
