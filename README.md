@@ -18,4 +18,4 @@ Digitools is a React-based web application designed to show digital products lik
 3. **Interactive Notifications**: Using React-Toastify, the app shows "Added to cart," "Removed," and "Checkout Success" messages to give a better experience to the user.
 
 ---
-*Developed as a practice project for Web Development.*
+
